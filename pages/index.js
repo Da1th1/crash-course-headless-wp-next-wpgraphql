@@ -11,13 +11,13 @@ export default function Home({ posts }) {
   return (
     <div className="container">
       <Head>
-        <title>Headless WP Next Starter</title>
+        <title>CodeLoop Store | Engineering Digital Futures with Cutting-Edge Design and Smart Technology </title>
         <link rel="icon" href="favicon.ico"></link>
       </Head>
 
       <main>
         <h1 className="title">
-          Headless WordPress Next.js Starter
+        Engineering Digital Futures with Cutting-Edge Design and Smart Technology
         </h1>
 
         <p className="description">
